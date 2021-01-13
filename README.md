@@ -1,5 +1,4 @@
-# LoveReceipts Server
-A websockets powered message system, powered by NodeJS, Express, and WS.
+# LoveReceipts Server - A websockets powered message system, powered by NodeJS, Express, and WS.
 ## Usage
 To start the server, clone repo and enter either `node server.js` or run with npm using `npm run server`. The app will then print to the console the HTTP and websockets ports respectively.
 
